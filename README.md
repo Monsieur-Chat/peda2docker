@@ -3,7 +3,7 @@ Basé sur le tools de Podalirius volatility2docker et vu que j'avais des erreurs
 
 # Installation
 ```sh
-git clone https://github.com/Monsieur-Chat/peda2docker/
-cd peda2docker
-make install
+git clone https://github.com/Monsieur-Chat/peda2docker/ && \
+cd peda2docker && \
+sudo make install
 ```
